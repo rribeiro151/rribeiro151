@@ -1,5 +1,5 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fsegundainfancia.wordpress.com%2F2014%2F09%2F28%2Fera-do-gelo%2F&psig=AOvVaw3pX-7R4KJLu1hT8xBVk20Z&ust=1690476640494000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCiwa_qrIADFQAAAAAdAAAAABAE
-<!--
+![scrat_web](https://github.com/rribeiro151/rribeiro151/assets/66185423/ea8b5e32-680b-4694-a05e-04064f1bec76)
+
 **rribeiro151/rribeiro151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
