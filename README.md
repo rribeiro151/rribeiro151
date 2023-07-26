@@ -1,6 +1,4 @@
-
-[![Hkv3](https://github.com/rribeiro151/rribeiro151/assets/66185423/9bb97256-e5e9-4148-b922-5ba5fcafb72d)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsegundainfancia.wordpress.com%2F2014%2F09%2F28%2Fera-do-gelo%2F&psig=AOvVaw3pX-7R4KJLu1hT8xBVk20Z&ust=1690476640494000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCiwa_qrIADFQAAAAAdAAAAABAE)
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fsegundainfancia.wordpress.com%2F2014%2F09%2F28%2Fera-do-gelo%2F&psig=AOvVaw3pX-7R4KJLu1hT8xBVk20Z&ust=1690476640494000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCiwa_qrIADFQAAAAAdAAAAABAE
 <!--
 **rribeiro151/rribeiro151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
