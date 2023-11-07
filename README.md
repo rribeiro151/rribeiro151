@@ -1,7 +1,7 @@
 # Hi, I'm Ronaldo
 <p align="center" style="margin: -20px 0 30px">
-   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
-    <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg alt="twitter" height="22px" width="22px" />
+   <a href="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" style='margin-right:10px'>
+    <img align="center" src=" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aral-roca-gomez-3b536bb1/" target="_blank" style='margin-right:10px'>
