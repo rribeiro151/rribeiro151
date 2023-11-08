@@ -8,6 +8,7 @@
   <a href="(https://www.linkedin.com/in/ronaldo-ribeiro-646291252/)" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
   </a>
+    &nbsp;&nbsp;
   <a href="https://www.instagram.com/rribeiro_oliveira001/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="22px" width="22px" />
   </a>
