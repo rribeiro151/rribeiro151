@@ -13,8 +13,11 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="22px" width="22px" />
   </a>
 </p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=rribeiro151&layout=compact)
+
 
 👋 Olá, sou Ronaldo. Sou um iniciante no mundo do desenvolvimento e estou animado para aprender mais sobre programação e colaborar em projetos interessantes. Estou atualmente explorando html, css e javascript. Adoraria conhecer outros desenvolvedores e aprender com a comunidade do GitHub. Vamos construir coisas incríveis juntos!
+
 
 
 <br />
